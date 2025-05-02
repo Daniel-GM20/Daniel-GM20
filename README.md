@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Daniel-GM20.
+- 👋 Hi, I’m Daniel, junior developer.
 - 👀 I’m interested in developing web applications.
 - 🌱 I’m currently learning JavaScript, frameworks like Vue and React.
 - 💞️ I’m looking to collaborate on software development companies
+- Tecnologies, tools and metodologies:
+      React, React native, Vue 3, flutter, node.js, MySQL, MongoDB, Jenkins, Docker, AWS (API Gateway, S3, EC2),
+      Alexa skills, Git, JWT, 
 - 📫 How to reach me:
       email: ulisesgm.dev@gmail.com
-      IG: Daniel__GM
 - 😄 Pronouns: Uli Garci
+- Languajes:
+        Spanish - native
+        English - basic
 
 <!---
 Daniel-GM20/Daniel-GM20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
